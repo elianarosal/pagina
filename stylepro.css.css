@@ -1,0 +1,241 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(#a56c6c,#fce5de)
+}
+header{
+    background-color: #e5bebe;
+    padding: 20px 0;
+
+}
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto ;
+    
+}
+.leon{
+    
+    transition: 400ms ;
+    box-shadow: 10px 10px 40px 10px #ee6a6a;
+
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px ;
+}
+nav a {
+    text-transform: uppercase;
+     color:darkgoldenrod;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration:none;
+
+
+}
+nav a:hover{
+
+    color:darkgreen;
+    text-decoration: underline ;
+}
+.cambios{
+    width: 940px;
+    margin: 0 auto;
+    padding: 100px; ;
+
+}
+.cambios li{
+    display: inline-block;
+    text-align: center;
+    width: 40% ;
+    vertical-align:top;
+    background:burlywood ;
+    margin:0 2.5% ;
+    padding:  30px 20px;
+    box-sizing: border-box;
+    border-color:darkgoldenrod;
+    border-width: 5px;
+    border-style: solid;
+}
+.cambios li:hover{
+    border-color:darkgreen;
+
+
+}
+.cambios h2{
+    font-size: 30px;
+    color:darkgoldenrod ;
+    font-weight:bold ;
+}
+.cambios p{
+    font-size:25px ;
+    color:darkgoldenrod ;
+    font-weight:bold ;
+}
+footer{
+   
+   background:url(esta.png )  ;
+   text-align: center;
+   font-weight: bold;
+   font-size: 40px;
+   color:darkgoldenrod ;
+   padding:0%;
+  
+}
+
+form{
+    margin: 10px 0;
+    color:darkgoldenrod ;
+    font-weight: bold;
+}
+
+form label, form p {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.impu{
+    display: block;
+    margin: 0 0 10px;
+    color:darkgoldenrod ;
+    font-weight: bold;
+    padding: 2px 10px;
+    width: 40%;
+
+   }
+.opt{
+    color:darkgoldenrod ;
+    font-weight: bold;
+
+}
+.che{
+    margin: 20px 0 ;
+}
+.enviar{
+    width: 40%;
+    padding: 15px 0 ;
+    font-size: 18px;
+    color:darkgoldenrod ;
+    font-weight: bold;
+    background: #e5bebe;
+    border: none;
+    transition: 1s all;
+    cursor: pointer;
+
+}
+.enviar:hover{
+    background: chartreuse;
+    transform:scale(1.2);
+}
+
+.promesas{
+    width: 1100px ;
+    margin:0 0 0 80px;
+    
+}
+.principal{
+    padding:3em 0 ;
+    width: 940px; 
+    margin: 0 auto;
+    
+}
+.centralizar{
+    text-align: center;
+    font-size:2em ;
+    margin:0 0  1em;
+    clear: left;
+}
+.principal p {
+    margin:0 0  1em;
+
+
+}
+.centro{
+    text-align: center;
+   font-size: 20px;
+}
+.principal  strong{
+    font-weight: bold;
+
+
+}
+.principal em {
+    font-weight: bold;
+
+}
+.principal em strong{
+    font-weight: bold;
+
+}
+
+
+.judas{
+    width: 200px ;
+    float: left;
+    margin: 0 20px 20px 0 ;
+    transition: 400ms ;
+    box-shadow: 10px 10px 40px 10px #ee6a6a;
+}
+.judas:hover{
+    opacity: 0.3;
+
+
+}
+.mapa{
+    padding:3em 0 ;
+    background: #fce5de;
+    
+}
+.mapa p {
+    margin:0 0 2em ;
+    text-align: center;
+}
+.mapac{
+    width: 940px;
+    margin: 0 auto ;
+
+}
+.segunda{
+    padding:3em 0 ;
+    background: #fce5de;
+
+}
+.lis{
+width: 640px;
+margin: 0 auto;
+
+}
+.lisdife{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+.listas{
+    line-height: 1.5;
+}
+.listas:before{
+    content:"🥰" ;
+}
+
+.isaias{
+    width: 60%;
+    transition: 400ms ;
+    box-shadow: 10px 10px 40px 10px  #ee6a6a;
+    
+
+}
+.isaias:hover{
+    opacity: 0.3;
+
+
+}
+.video{
+    width: 560px;
+    margin: 1em auto;
+
+}

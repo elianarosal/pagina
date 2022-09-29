@@ -1,0 +1,41 @@
+.tituloprincipal{
+    padding-left: 30px;
+
+}
+#promesas{
+    width: 100%;
+}
+.principal{
+    background-color: #cccccc;
+    padding: 20px;
+
+}
+
+em strong{
+
+    color: darkred;
+}
+#centro{
+    text-align: center;
+    font: size 20px; ;
+}
+.PROMESAS{
+    background-color: #fffefe;
+    padding: 30px; ;
+}
+.centralizar{
+    text-align: center;
+}
+.listas{
+    font-style: italic;
+}
+ul{
+    display:inline-block;
+    vertical-align:top ;
+    width: 20%;
+    margin-right:15% ;
+}
+.isaias{
+    width: 50%;
+
+}
